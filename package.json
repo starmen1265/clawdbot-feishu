@@ -22,7 +22,7 @@
     "ai",
     "claude"
   ],
-  "moltbot.extensions": {
+  "moltbot": {
     "extensions": [
       "./index.ts"
     ],
