@@ -22,7 +22,7 @@
     "ai",
     "claude"
   ],
-  "openclaw": {
+  "moltbot.extensions": {
     "extensions": [
       "./index.ts"
     ],
